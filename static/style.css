@@ -1,0 +1,16 @@
+body {
+  overflow-x: hidden;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#education {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 6rem;
+}
